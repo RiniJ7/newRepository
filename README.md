@@ -1,1 +1,3 @@
-# newRepository 
+# newRepository apple
+tomato
+banana
